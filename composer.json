@@ -19,6 +19,7 @@
     "require-dev": {
         "driftingly/rector-laravel": "^2.1",
         "fakerphp/faker": "^1.23",
+        "larastan/larastan": "^3.0",
         "laravel/boost": "^2.0",
         "laravel/pail": "^1.2.2",
         "laravel/pint": "^1.24",
@@ -27,6 +28,7 @@
         "nunomaduro/collision": "^8.6",
         "pestphp/pest": "^4.3",
         "pestphp/pest-plugin-laravel": "^4.0",
+        "phpstan/phpstan": "^2.1",
         "rector/rector": "^2.3"
     },
     "autoload": {
