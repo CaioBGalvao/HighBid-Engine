@@ -12,6 +12,7 @@
         "types": "tsc --noEmit"
     },
     "devDependencies": {
+        "chokidar": "^4.0.0",
         "@eslint/js": "^10.0.1",
         "@laravel/vite-plugin-wayfinder": "^0.1.7",
         "@types/node": "^25.2.3",
