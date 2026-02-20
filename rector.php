@@ -43,6 +43,7 @@ return RectorConfig::configure()
     ->withSkip([
         AddOverrideAttributeToOverriddenMethodsRector::class,
         MakeInheritedMethodVisibilitySameAsParentRector::class,
+        __DIR__.'/public/frankenphp-worker.php',
     ])
     ->withPreparedSets(
         deadCode: true,
